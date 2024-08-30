@@ -2,6 +2,7 @@
 ### Explore the Space.
 -------------------
 ## Becon - SpaceBrowser Installer
+![Becon](images/BECON_INSTALLER.png)
 - Notes :
   - ***Visual C++ and WindowsAPI and GDI+ must be installed.***
   - Only Windows 10~11 environment can be installed on C:\ drive.
