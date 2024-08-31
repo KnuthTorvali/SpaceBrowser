@@ -15,10 +15,10 @@
     And close the Notepad window. You can start the reinstallation.
   
 - Functions :
-  - Configure SpaceBrowser on C:\ drive.
-  - Record whether BeconSetting.BECONDATA is installed.
-  - This task requires read and write permissions.
-  - Create a shortcut to SpaceBrowser on %s\Desktop (desktop). This operation requires file creation permission.
+  - [X] Configure SpaceBrowser on C:\ drive.
+  - [X] Record whether BeconSetting.BECONDATA is installed.
+  - [X] This task requires read and write permissions.
+  - [X] Create a shortcut to SpaceBrowser on %s\Desktop (desktop). This operation requires file creation permission.
 -------------------
   
 ## SpaceBrowser - Explore the Space.
@@ -32,8 +32,8 @@
   - Currently supported language is Korean (Ko-KR).
 
 - Functions :
-  - Load HTML5, CSS, JS and sub-languages ​​and browse websites.
-  - Meet the Space4 search engine.
+  - [ ] Load HTML5, CSS, JS and sub-languages ​​and browse websites.
+  - [X] Meet the Space4 search engine.
 
   
 # The SpaceBrowser project is operated on a non-profit basis.
